@@ -1,2 +1,2 @@
 # profcode
-Projeto do professor Ajax.
+Projeto da faculdade referente à disciplina de Aplicações para Internet.
